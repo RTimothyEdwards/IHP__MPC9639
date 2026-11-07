@@ -1,0 +1,34 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 1116861515
+<< metal2 >>
+rect -77 68 77 77
+rect -77 28 -68 68
+rect -28 28 28 68
+rect 68 28 77 68
+rect -77 -28 77 28
+rect -77 -68 -68 -28
+rect -28 -68 28 -28
+rect 68 -68 77 -28
+rect -77 -77 77 -68
+<< via2 >>
+rect -68 28 -28 68
+rect 28 28 68 68
+rect -68 -68 -28 -28
+rect 28 -68 68 -28
+<< metal3 >>
+rect -77 68 77 77
+rect -77 28 -68 68
+rect -28 28 28 68
+rect 68 28 77 68
+rect -77 -28 77 28
+rect -77 -68 -68 -28
+rect -28 -68 28 -28
+rect 68 -68 77 -28
+rect -77 -77 77 -68
+<< properties >>
+string GDS_END 255218
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 254830
+<< end >>

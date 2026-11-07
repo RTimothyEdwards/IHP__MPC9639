@@ -1,0 +1,19 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 493622614
+<< metal1 >>
+rect -29 225 29 226
+rect -29 -225 -20 225
+rect 20 -225 29 225
+rect -29 -226 29 -225
+<< via1 >>
+rect -20 -225 20 225
+<< metal2 >>
+rect -29 -225 -20 225
+rect 20 -225 29 225
+<< properties >>
+string GDS_END 28721112
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_io/gds/sg13cmos5l_io.gds
+string GDS_START 28720596
+<< end >>

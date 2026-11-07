@@ -1,0 +1,36 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 14078362
+<< via2 >>
+rect -20 301 20 341
+rect -219 87 -179 127
+rect 179 87 219 127
+rect -20 -127 20 -87
+<< metal3 >>
+rect -310 341 310 349
+rect -310 301 -20 341
+rect 20 301 310 341
+rect -310 293 310 301
+rect -310 127 310 135
+rect -310 87 -219 127
+rect -179 87 179 127
+rect 219 87 310 127
+rect -310 79 310 87
+rect -310 -87 310 -79
+rect -310 -127 -20 -87
+rect 20 -127 310 -87
+rect -310 -135 310 -127
+use RM_IHPSG13_1P_BITKIT_CELL  RM_IHPSG13_1P_BITKIT_CELL_0
+timestamp 887725936
+transform 1 0 0 0 -1 214
+box -311 -199 311 199
+use RM_IHPSG13_1P_BITKIT_CELL  RM_IHPSG13_1P_BITKIT_CELL_1
+timestamp 887725936
+transform 1 0 0 0 1 0
+box -311 -199 311 199
+<< properties >>
+string GDS_END 6560
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 6032
+<< end >>

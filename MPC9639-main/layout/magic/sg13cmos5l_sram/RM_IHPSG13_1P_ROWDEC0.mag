@@ -1,0 +1,153 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 2021198267
+<< metal3 >>
+rect 82 3087 5630 3129
+rect 82 2751 5630 2793
+rect 82 2247 5630 2289
+rect 82 1911 5630 1953
+rect 82 1659 5630 1701
+rect 82 1071 5630 1113
+rect 82 567 5630 609
+rect 82 231 5630 273
+<< metal4 >>
+rect 0 -56 562 3572
+rect 1030 -56 1592 3572
+rect 2060 -56 2622 3572
+rect 3090 -56 3652 3572
+rect 4120 -56 4682 3572
+rect 5150 -56 5712 3572
+use VIA_M3_M2_db_0x0283a69d  VIA_M3_M2_db_0x0283a69d_0
+timestamp 475105584
+transform 1 0 3601 0 1 2772
+box -77 -21 77 21
+use VIA_M3_M2_db_0x0283a69d  VIA_M3_M2_db_0x0283a69d_1
+timestamp 475105584
+transform 1 0 2275 0 1 3108
+box -77 -21 77 21
+use VIA_M3_M2_db_0x0283a69d  VIA_M3_M2_db_0x0283a69d_2
+timestamp 475105584
+transform 1 0 2275 0 1 2268
+box -77 -21 77 21
+use VIA_M3_M2_db_0x0283a69d  VIA_M3_M2_db_0x0283a69d_3
+timestamp 475105584
+transform 1 0 2275 0 1 588
+box -77 -21 77 21
+use VIA_M3_M2_db_0x0283a69d  VIA_M3_M2_db_0x0283a69d_4
+timestamp 475105584
+transform 1 0 2275 0 1 1680
+box -77 -21 77 21
+use VIA_M3_M2_db_0x0283a69f  VIA_M3_M2_db_0x0283a69f_0
+timestamp 2095710484
+transform 1 0 3550 0 1 1134
+box -29 -71 29 71
+use VIA_M3_M2_db_0x0283a69f  VIA_M3_M2_db_0x0283a69f_1
+timestamp 2095710484
+transform 1 0 3550 0 1 1974
+box -29 -71 29 71
+use VIA_M3_M2_db_0x0283a69f  VIA_M3_M2_db_0x0283a69f_2
+timestamp 2095710484
+transform 1 0 3550 0 1 294
+box -29 -71 29 71
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_0
+timestamp 153653104
+transform -1 0 3371 0 -1 1092
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_1
+timestamp 153653104
+transform -1 0 3371 0 -1 252
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_2
+timestamp 153653104
+transform -1 0 2341 0 -1 2772
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_3
+timestamp 153653104
+transform -1 0 2341 0 -1 1932
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_4
+timestamp 153653104
+transform -1 0 2341 0 -1 1092
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_5
+timestamp 153653104
+transform -1 0 2341 0 -1 252
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_6
+timestamp 153653104
+transform -1 0 1311 0 -1 3108
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_7
+timestamp 153653104
+transform -1 0 1311 0 -1 2268
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_8
+timestamp 153653104
+transform -1 0 1311 0 -1 588
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_9
+timestamp 153653104
+transform -1 0 1311 0 -1 1680
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_10
+timestamp 153653104
+transform -1 0 4401 0 -1 1680
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_11
+timestamp 153653104
+transform -1 0 4401 0 -1 3108
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_12
+timestamp 153653104
+transform -1 0 4401 0 -1 2268
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_13
+timestamp 153653104
+transform -1 0 4401 0 -1 588
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_14
+timestamp 153653104
+transform -1 0 3371 0 -1 2772
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69b  VIA_M4_M3_db_0x0283a69b_15
+timestamp 153653104
+transform -1 0 3371 0 -1 1932
+box -281 -21 281 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_0
+timestamp 61609372
+transform -1 0 5390 0 -1 252
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_1
+timestamp 61609372
+transform -1 0 5390 0 -1 1092
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_2
+timestamp 61609372
+transform -1 0 5390 0 -1 1932
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_3
+timestamp 61609372
+transform -1 0 5390 0 -1 2772
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_4
+timestamp 61609372
+transform -1 0 322 0 -1 252
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_5
+timestamp 61609372
+transform -1 0 322 0 -1 1092
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_6
+timestamp 61609372
+transform -1 0 322 0 -1 1932
+box -240 -21 240 21
+use VIA_M4_M3_db_0x0283a69e  VIA_M4_M3_db_0x0283a69e_7
+timestamp 61609372
+transform -1 0 322 0 -1 2772
+box -240 -21 240 21
+<< properties >>
+string GDS_END 225896
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 223028
+<< end >>

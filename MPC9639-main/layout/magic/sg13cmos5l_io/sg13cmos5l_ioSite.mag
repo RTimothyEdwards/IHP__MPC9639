@@ -1,0 +1,11 @@
+magic
+tech ihp-sg13cmos5l
+timestamp 0
+<< checkpaint >>
+rect -1001 -1001 1001 1001
+<< properties >>
+string FIXED_BBOX 0 0 100 18000
+string LEFclass PAD
+string LEFsymmetry R90
+string LEFview TRUE
+<< end >>

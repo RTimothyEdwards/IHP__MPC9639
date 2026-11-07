@@ -1,0 +1,497 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 445733506
+<< metal2 >>
+rect 658 0 710 52
+rect 829 0 881 1163
+rect 1951 0 2003 497
+rect 2124 0 2176 52
+rect 2226 0 2278 467
+rect 2906 0 2958 52
+rect 3077 0 3129 1163
+rect 4199 0 4251 497
+rect 4372 0 4424 52
+rect 4474 0 4526 467
+rect 5154 0 5206 52
+rect 5325 0 5377 1163
+rect 6447 0 6499 497
+rect 6620 0 6672 52
+rect 6722 0 6774 467
+rect 7402 0 7454 52
+rect 7573 0 7625 1163
+rect 8695 0 8747 497
+rect 8868 0 8920 52
+rect 8970 0 9022 467
+rect 11480 0 11532 52
+rect 11582 0 11634 52
+rect 11684 0 11736 52
+rect 11786 0 11838 52
+rect 13214 0 13266 52
+rect 13316 0 13368 52
+rect 13520 0 13572 52
+rect 13622 0 13674 52
+rect 13826 0 13878 52
+rect 13928 0 13980 52
+rect 14030 0 14082 52
+rect 14132 0 14184 52
+rect 14234 0 14286 52
+rect 14438 0 14490 52
+rect 14540 0 14592 52
+rect 14744 0 14796 52
+rect 14846 0 14898 52
+rect 15254 0 15306 52
+rect 15356 0 15408 52
+rect 15458 0 15510 52
+rect 15560 0 15612 52
+rect 15662 0 15714 52
+rect 15764 0 15816 52
+rect 15866 0 15918 52
+rect 15968 0 16020 52
+rect 16478 0 16530 52
+rect 16580 0 16632 52
+rect 17498 0 17550 52
+rect 17600 0 17652 52
+rect 17906 0 17958 52
+rect 20354 0 20406 467
+rect 20456 0 20508 52
+rect 20629 0 20681 497
+rect 21751 0 21803 1163
+rect 21922 0 21974 52
+rect 22602 0 22654 467
+rect 22704 0 22756 52
+rect 22877 0 22929 497
+rect 23999 0 24051 1163
+rect 24170 0 24222 52
+rect 24850 0 24902 467
+rect 24952 0 25004 52
+rect 25125 0 25177 497
+rect 26247 0 26299 1163
+rect 26418 0 26470 52
+rect 27098 0 27150 467
+rect 27200 0 27252 52
+rect 27373 0 27425 497
+rect 28495 0 28547 1163
+rect 28666 0 28718 52
+<< metal4 >>
+rect 852 9093 1414 67292
+rect 852 0 1414 7765
+rect 1976 0 2538 67292
+rect 3100 9093 3662 67292
+rect 3100 0 3662 7765
+rect 4224 0 4786 67292
+rect 5348 9093 5910 67292
+rect 5348 0 5910 7765
+rect 6472 0 7034 67292
+rect 7596 9093 8158 67292
+rect 7596 0 8158 7765
+rect 8720 0 9282 67292
+rect 10802 0 11364 67292
+rect 11832 0 12394 67292
+rect 12862 0 13424 67292
+rect 13892 0 14454 67292
+rect 14922 0 15484 67292
+rect 15952 0 16514 67292
+rect 16982 0 17544 67292
+rect 18012 0 18574 67292
+rect 20094 0 20656 67292
+rect 21218 9093 21780 67292
+rect 21218 0 21780 7765
+rect 22342 0 22904 67292
+rect 23466 9093 24028 67292
+rect 23466 0 24028 7765
+rect 24590 0 25152 67292
+rect 25714 9093 26276 67292
+rect 25714 0 26276 7765
+rect 26838 0 27400 67292
+rect 27962 9093 28524 67292
+rect 27962 0 28524 7765
+use RM_IHPSG13_1P_COLCTRL2  RM_IHPSG13_1P_COLCTRL2_0
+array 0 3 2248 0 0 0
+timestamp 137169763
+transform -1 0 9282 0 1 9300
+box -160 -9345 2449 -207
+use RM_IHPSG13_1P_COLCTRL2  RM_IHPSG13_1P_COLCTRL2_1
+array 0 3 2248 0 0 0
+timestamp 137169763
+transform 1 0 20094 0 1 9300
+box -160 -9345 2449 -207
+use RM_IHPSG13_1P_COLCTRL2_end  RM_IHPSG13_1P_COLCTRL2_end_0
+timestamp 1675607366
+transform -1 0 2538 0 1 9300
+box 2404 -9345 2538 -690
+use RM_IHPSG13_1P_COLCTRL2_end  RM_IHPSG13_1P_COLCTRL2_end_1
+timestamp 1675607366
+transform 1 0 26838 0 1 9300
+box 2404 -9345 2538 -690
+use RM_IHPSG13_1P_COLDEC2  RM_IHPSG13_1P_COLDEC2_0
+timestamp 854142494
+transform 1 0 11832 0 1 9300
+box -1224 -9345 6936 -2415
+use RM_IHPSG13_1P_COLDRV13_FILL1  RM_IHPSG13_1P_COLDRV13_FILL1_0
+timestamp 2039351787
+transform -1 0 19176 0 1 9300
+box -102 -7665 204 60
+use RM_IHPSG13_1P_COLDRV13_FILL1  RM_IHPSG13_1P_COLDRV13_FILL1_1
+timestamp 2039351787
+transform 1 0 10200 0 1 9300
+box -102 -7665 204 60
+use RM_IHPSG13_1P_COLDRV13_FILL1C2  RM_IHPSG13_1P_COLDRV13_FILL1C2_0
+array 0 1 102 0 0 0
+timestamp 1990589994
+transform -1 0 20094 0 1 9300
+box -102 -9345 204 -7455
+use RM_IHPSG13_1P_COLDRV13_FILL1C2  RM_IHPSG13_1P_COLDRV13_FILL1C2_1
+array 0 1 102 0 0 0
+timestamp 1990589994
+transform 1 0 9282 0 1 9300
+box -102 -9345 204 -7455
+use RM_IHPSG13_1P_COLDRV13_FILL4  RM_IHPSG13_1P_COLDRV13_FILL4_0
+timestamp 1594584589
+transform -1 0 19074 0 1 9300
+box -102 -7665 510 60
+use RM_IHPSG13_1P_COLDRV13_FILL4  RM_IHPSG13_1P_COLDRV13_FILL4_1
+timestamp 1594584589
+transform 1 0 10302 0 1 9300
+box -102 -7665 510 60
+use RM_IHPSG13_1P_COLDRV13_FILL4C2  RM_IHPSG13_1P_COLDRV13_FILL4C2_0
+array 0 2 408 0 0 0
+timestamp 161254295
+transform -1 0 19890 0 1 9300
+box -102 -9345 510 -7455
+use RM_IHPSG13_1P_COLDRV13_FILL4C2  RM_IHPSG13_1P_COLDRV13_FILL4C2_1
+array 0 2 408 0 0 0
+timestamp 161254295
+transform 1 0 9486 0 1 9300
+box -102 -9345 510 -7455
+use RM_IHPSG13_1P_COLDRV13X4  RM_IHPSG13_1P_COLDRV13X4_0
+timestamp 1807235784
+transform -1 0 10200 0 1 9300
+box -102 -7665 944 60
+use RM_IHPSG13_1P_COLDRV13X4  RM_IHPSG13_1P_COLDRV13X4_1
+timestamp 1807235784
+transform 1 0 19176 0 1 9300
+box -102 -7665 944 60
+use RM_IHPSG13_1P_CTRL  RM_IHPSG13_1P_CTRL_0
+timestamp 1566409689
+transform 1 0 11832 0 1 9300
+box -1224 -7665 6936 -2520
+use RM_IHPSG13_1P_DLY_2  RM_IHPSG13_1P_DLY_2_0
+timestamp 2134160497
+transform 1 0 13260 0 -1 5100
+box -102 -105 4182 900
+use RM_IHPSG13_1P_DLY_4  RM_IHPSG13_1P_DLY_4_0
+timestamp 1342759946
+transform 1 0 13158 0 1 3420
+box -102 -105 4182 900
+use RM_IHPSG13_1P_DLY_MUX  RM_IHPSG13_1P_DLY_MUX_0
+timestamp 1949377463
+transform 1 0 17544 0 1 3420
+box -408 -105 1224 1785
+use RM_IHPSG13_1P_MATRIX_256x16  RM_IHPSG13_1P_MATRIX_256x16_0
+timestamp 1816392730
+transform -1 0 9314 0 1 9375
+box -322 -287 9314 58049
+use RM_IHPSG13_1P_MATRIX_256x16  RM_IHPSG13_1P_MATRIX_256x16_1
+timestamp 1816392730
+transform 1 0 20062 0 1 9375
+box -322 -287 9314 58049
+use RM_IHPSG13_1P_ROWDEC8  RM_IHPSG13_1P_ROWDEC8_0
+timestamp 639523598
+transform 1 0 11832 0 1 9300
+box -102 -60 5814 57992
+use RM_IHPSG13_1P_ROWREG8  RM_IHPSG13_1P_ROWREG8_0
+timestamp 2120659546
+transform 1 0 11832 0 1 9300
+box -1224 -2625 6936 60
+use RM_IHPSG13_1P_WLDRV16X4  RM_IHPSG13_1P_WLDRV16X4_0
+array 0 0 0 0 15 3628
+timestamp 524550541
+transform -1 0 11832 0 1 9300
+box -102 -60 2369 3572
+use RM_IHPSG13_1P_WLDRV16X4  RM_IHPSG13_1P_WLDRV16X4_1
+array 0 0 0 0 15 3628
+timestamp 524550541
+transform 1 0 17544 0 1 9300
+box -102 -60 2369 3572
+use RM_IHPSG13_1P_WLDRV16X4_tap  RM_IHPSG13_1P_WLDRV16X4_tap_0
+array 0 0 0 0 14 3628
+timestamp 2039842649
+transform -1 0 11832 0 1 9300
+box 0 3360 2369 3628
+use RM_IHPSG13_1P_WLDRV16X4_tap  RM_IHPSG13_1P_WLDRV16X4_tap_1
+array 0 0 0 0 14 3628
+timestamp 2039842649
+transform 1 0 17544 0 1 9300
+box 0 3360 2369 3628
+<< labels >>
+flabel metal2 s 13316 0 13368 52 0 FreeSans 400 90 0 0 A_BIST_MEN
+port 39 nsew signal input
+flabel metal2 s 14438 0 14490 52 0 FreeSans 400 90 0 0 A_BIST_WEN
+port 41 nsew signal input
+flabel metal2 s 14540 0 14592 52 0 FreeSans 400 90 0 0 A_BIST_REN
+port 40 nsew signal input
+flabel metal2 s 13214 0 13266 52 0 FreeSans 400 90 0 0 A_BIST_CLK
+port 29 nsew signal input
+flabel metal2 s 14030 0 14082 52 0 FreeSans 400 90 0 0 A_BIST_EN
+port 38 nsew signal input
+flabel metal2 s 17906 0 17958 52 0 FreeSans 400 90 0 0 A_DLY
+port 59 nsew signal input
+flabel metal2 s 13622 0 13674 52 0 FreeSans 400 90 0 0 A_MEN
+port 68 nsew signal input
+flabel metal2 s 14132 0 14184 52 0 FreeSans 400 90 0 0 A_WEN
+port 70 nsew signal input
+flabel metal2 s 14234 0 14286 52 0 FreeSans 400 90 0 0 A_REN
+port 69 nsew signal input
+flabel metal2 s 13520 0 13572 52 0 FreeSans 400 90 0 0 A_CLK
+port 50 nsew signal input
+flabel metal2 s 16580 0 16632 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<9>
+port 11 nsew signal input
+flabel metal2 s 16478 0 16530 52 0 FreeSans 400 90 0 0 A_ADDR<9>
+port 1 nsew signal input
+flabel metal2 s 17600 0 17652 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<8>
+port 12 nsew signal input
+flabel metal2 s 17498 0 17550 52 0 FreeSans 400 90 0 0 A_ADDR<8>
+port 2 nsew signal input
+flabel metal2 s 11786 0 11838 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<7>
+port 13 nsew signal input
+flabel metal2 s 11684 0 11736 52 0 FreeSans 400 90 0 0 A_ADDR<7>
+port 3 nsew signal input
+flabel metal2 s 11582 0 11634 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<6>
+port 14 nsew signal input
+flabel metal2 s 11480 0 11532 52 0 FreeSans 400 90 0 0 A_ADDR<6>
+port 4 nsew signal input
+flabel metal2 s 15662 0 15714 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<5>
+port 15 nsew signal input
+flabel metal2 s 15764 0 15816 52 0 FreeSans 400 90 0 0 A_ADDR<5>
+port 5 nsew signal input
+flabel metal2 s 15866 0 15918 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<4>
+port 16 nsew signal input
+flabel metal2 s 15968 0 16020 52 0 FreeSans 400 90 0 0 A_ADDR<4>
+port 6 nsew signal input
+flabel metal2 s 15356 0 15408 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<3>
+port 17 nsew signal input
+flabel metal2 s 15254 0 15306 52 0 FreeSans 400 90 0 0 A_ADDR<3>
+port 7 nsew signal input
+flabel metal2 s 15560 0 15612 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<2>
+port 18 nsew signal input
+flabel metal2 s 15458 0 15510 52 0 FreeSans 400 90 0 0 A_ADDR<2>
+port 8 nsew signal input
+flabel metal2 s 14744 0 14796 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<1>
+port 19 nsew signal input
+flabel metal2 s 13826 0 13878 52 0 FreeSans 400 90 0 0 A_ADDR<1>
+port 9 nsew signal input
+flabel metal2 s 14846 0 14898 52 0 FreeSans 400 90 0 0 A_BIST_ADDR<0>
+port 20 nsew signal input
+flabel metal2 s 13928 0 13980 52 0 FreeSans 400 90 0 0 A_ADDR<0>
+port 10 nsew signal input
+flabel metal2 s 2124 0 2176 52 0 FreeSans 400 90 0 0 A_DOUT<0>
+port 67 nsew signal output
+flabel metal2 s 27200 0 27252 52 0 FreeSans 400 90 0 0 A_DOUT<7>
+port 60 nsew signal output
+flabel metal2 s 1951 0 2003 52 0 FreeSans 400 90 0 0 A_BIST_BM<0>
+port 28 nsew signal input
+flabel metal2 s 27373 0 27425 52 0 FreeSans 400 90 0 0 A_BIST_BM<7>
+port 21 nsew signal input
+flabel metal2 s 2226 0 2278 52 0 FreeSans 400 90 0 0 A_BM<0>
+port 49 nsew signal input
+flabel metal2 s 27098 0 27150 52 0 FreeSans 400 90 0 0 A_BM<7>
+port 42 nsew signal input
+flabel metal2 s 829 0 881 52 0 FreeSans 400 90 0 0 A_BIST_DIN<0>
+port 37 nsew signal input
+flabel metal2 s 28495 0 28547 52 0 FreeSans 400 90 0 0 A_BIST_DIN<7>
+port 30 nsew signal input
+flabel metal2 s 658 0 710 52 0 FreeSans 400 90 0 0 A_DIN<0>
+port 58 nsew signal input
+flabel metal2 s 28666 0 28718 52 0 FreeSans 400 90 0 0 A_DIN<7>
+port 51 nsew signal input
+flabel metal2 s 4372 0 4424 52 0 FreeSans 400 90 0 0 A_DOUT<1>
+port 66 nsew signal output
+flabel metal2 s 24952 0 25004 52 0 FreeSans 400 90 0 0 A_DOUT<6>
+port 61 nsew signal output
+flabel metal2 s 4199 0 4251 52 0 FreeSans 400 90 0 0 A_BIST_BM<1>
+port 27 nsew signal input
+flabel metal2 s 25125 0 25177 52 0 FreeSans 400 90 0 0 A_BIST_BM<6>
+port 22 nsew signal input
+flabel metal2 s 4474 0 4526 52 0 FreeSans 400 90 0 0 A_BM<1>
+port 48 nsew signal input
+flabel metal2 s 24850 0 24902 52 0 FreeSans 400 90 0 0 A_BM<6>
+port 43 nsew signal input
+flabel metal2 s 3077 0 3129 52 0 FreeSans 400 90 0 0 A_BIST_DIN<1>
+port 36 nsew signal input
+flabel metal2 s 26247 0 26299 52 0 FreeSans 400 90 0 0 A_BIST_DIN<6>
+port 31 nsew signal input
+flabel metal2 s 2906 0 2958 52 0 FreeSans 400 90 0 0 A_DIN<1>
+port 57 nsew signal input
+flabel metal2 s 26418 0 26470 52 0 FreeSans 400 90 0 0 A_DIN<6>
+port 52 nsew signal input
+flabel metal2 s 6620 0 6672 52 0 FreeSans 400 90 0 0 A_DOUT<2>
+port 65 nsew signal output
+flabel metal2 s 22704 0 22756 52 0 FreeSans 400 90 0 0 A_DOUT<5>
+port 62 nsew signal output
+flabel metal2 s 6447 0 6499 52 0 FreeSans 400 90 0 0 A_BIST_BM<2>
+port 26 nsew signal input
+flabel metal2 s 22877 0 22929 52 0 FreeSans 400 90 0 0 A_BIST_BM<5>
+port 23 nsew signal input
+flabel metal2 s 6722 0 6774 52 0 FreeSans 400 90 0 0 A_BM<2>
+port 47 nsew signal input
+flabel metal2 s 22602 0 22654 52 0 FreeSans 400 90 0 0 A_BM<5>
+port 44 nsew signal input
+flabel metal2 s 5325 0 5377 52 0 FreeSans 400 90 0 0 A_BIST_DIN<2>
+port 35 nsew signal input
+flabel metal2 s 23999 0 24051 52 0 FreeSans 400 90 0 0 A_BIST_DIN<5>
+port 32 nsew signal input
+flabel metal2 s 5154 0 5206 52 0 FreeSans 400 90 0 0 A_DIN<2>
+port 56 nsew signal input
+flabel metal2 s 24170 0 24222 52 0 FreeSans 400 90 0 0 A_DIN<5>
+port 53 nsew signal input
+flabel metal2 s 8868 0 8920 52 0 FreeSans 400 90 0 0 A_DOUT<3>
+port 64 nsew signal output
+flabel metal2 s 20456 0 20508 52 0 FreeSans 400 90 0 0 A_DOUT<4>
+port 63 nsew signal output
+flabel metal2 s 8695 0 8747 52 0 FreeSans 400 90 0 0 A_BIST_BM<3>
+port 25 nsew signal input
+flabel metal2 s 20629 0 20681 52 0 FreeSans 400 90 0 0 A_BIST_BM<4>
+port 24 nsew signal input
+flabel metal2 s 8970 0 9022 52 0 FreeSans 400 90 0 0 A_BM<3>
+port 46 nsew signal input
+flabel metal2 s 20354 0 20406 52 0 FreeSans 400 90 0 0 A_BM<4>
+port 45 nsew signal input
+flabel metal2 s 7573 0 7625 52 0 FreeSans 400 90 0 0 A_BIST_DIN<3>
+port 34 nsew signal input
+flabel metal2 s 21751 0 21803 52 0 FreeSans 400 90 0 0 A_BIST_DIN<4>
+port 33 nsew signal input
+flabel metal2 s 7402 0 7454 52 0 FreeSans 400 90 0 0 A_DIN<3>
+port 55 nsew signal input
+flabel metal2 s 21922 0 21974 52 0 FreeSans 400 90 0 0 A_DIN<4>
+port 54 nsew signal input
+flabel metal4 s 16982 0 17544 67292 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 14922 0 15484 67292 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 13892 0 14454 67292 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 11832 0 12394 67292 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 18012 0 18574 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 15952 0 16514 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 12862 0 13424 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 10802 0 11364 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 852 9093 1414 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 852 0 1414 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 27962 9093 28524 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 27962 0 28524 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 1976 0 2538 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 26838 0 27400 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 3100 9093 3662 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 3100 0 3662 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 25714 9093 26276 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 25714 0 26276 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 4224 0 4786 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 24590 0 25152 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 5348 9093 5910 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 5348 0 5910 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 23466 9093 24028 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 23466 0 24028 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 6472 0 7034 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 22342 0 22904 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 7596 9093 8158 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 7596 0 8158 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 21218 9093 21780 67292 0 FreeSans 400 0 0 0 VDDARRAY!
+port 72 nsew power bidirectional
+flabel metal4 s 21218 0 21780 7765 0 FreeSans 400 0 0 0 VDD!
+port 71 nsew power bidirectional
+flabel metal4 s 8720 0 9282 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+flabel metal4 s 20094 0 20656 67292 0 FreeSans 400 0 0 0 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 24590 0 25152 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 22342 0 22904 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 20094 0 20656 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 18012 0 18574 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 15952 0 16514 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 12862 0 13424 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 10802 0 11364 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 8720 0 9282 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 6472 0 7034 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 4224 0 4786 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 1976 0 2538 67292 1 VSS!
+port 73 nsew ground bidirectional
+rlabel metal4 s 25714 0 26276 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 23466 0 24028 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 21218 0 21780 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 16982 0 17544 67292 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 14922 0 15484 67292 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 13892 0 14454 67292 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 11832 0 12394 67292 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 7596 0 8158 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 5348 0 5910 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 3100 0 3662 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 852 0 1414 7765 1 VDD!
+port 71 nsew power bidirectional
+rlabel metal4 s 25714 9093 26276 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 23466 9093 24028 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 21218 9093 21780 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 7596 9093 8158 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 5348 9093 5910 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 3100 9093 3662 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+rlabel metal4 s 852 9093 1414 67292 1 VDDARRAY!
+port 72 nsew power bidirectional
+<< properties >>
+string FIXED_BBOX 0 0 29376 67292
+string GDS_END 485692
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 467836
+string LEFclass BLOCK
+string LEFsymmetry X Y R90
+<< end >>

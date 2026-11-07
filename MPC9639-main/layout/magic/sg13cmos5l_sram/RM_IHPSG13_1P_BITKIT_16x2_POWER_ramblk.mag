@@ -1,0 +1,80 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 121622858
+<< metal4 >>
+rect 32 -282 594 3497
+rect 1156 -282 1718 3497
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_0
+timestamp 837122850
+transform 1 0 1437 0 1 321
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_1
+timestamp 837122850
+transform 1 0 313 0 1 535
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_2
+timestamp 837122850
+transform 1 0 1437 0 1 749
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_3
+timestamp 837122850
+transform 1 0 313 0 1 963
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_4
+timestamp 837122850
+transform 1 0 1437 0 1 1177
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_5
+timestamp 837122850
+transform 1 0 313 0 1 1391
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_6
+timestamp 837122850
+transform 1 0 1437 0 1 1605
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_7
+timestamp 837122850
+transform 1 0 313 0 1 107
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_8
+timestamp 837122850
+transform 1 0 1437 0 1 2033
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_9
+timestamp 837122850
+transform 1 0 313 0 1 2247
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_10
+timestamp 837122850
+transform 1 0 1437 0 1 2461
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_11
+timestamp 837122850
+transform 1 0 313 0 1 2675
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_12
+timestamp 837122850
+transform 1 0 1437 0 1 2889
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_13
+timestamp 837122850
+transform 1 0 313 0 1 3103
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_14
+timestamp 837122850
+transform 1 0 1437 0 1 3317
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_15
+timestamp 837122850
+transform 1 0 1437 0 1 -107
+box -281 -28 281 28
+use VIA_M4_M3_db_0x0283361c  VIA_M4_M3_db_0x0283361c_16
+timestamp 837122850
+transform 1 0 313 0 1 1819
+box -281 -28 281 28
+<< properties >>
+string GDS_END 260838
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 259890
+<< end >>

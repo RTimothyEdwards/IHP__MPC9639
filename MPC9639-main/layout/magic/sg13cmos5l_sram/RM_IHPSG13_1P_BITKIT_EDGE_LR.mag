@@ -1,0 +1,157 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 125679683
+<< digisub >>
+rect -311 -199 41 199
+<< nwell >>
+rect -115 -199 41 199
+<< pwell >>
+rect -255 -163 -143 163
+<< nmos >>
+rect -229 38 -169 64
+rect -229 -64 -169 -38
+<< ndiff >>
+rect -229 123 -169 137
+rect -229 91 -215 123
+rect -183 91 -169 123
+rect -229 64 -169 91
+rect -229 16 -169 38
+rect -229 -16 -215 16
+rect -183 -16 -169 16
+rect -229 -38 -169 -16
+rect -229 -91 -169 -64
+rect -229 -123 -215 -91
+rect -183 -123 -169 -91
+rect -229 -137 -169 -123
+<< ndiffc >>
+rect -215 91 -183 123
+rect -215 -16 -183 16
+rect -215 -123 -183 -91
+<< nsubdiff >>
+rect -61 123 -21 137
+rect -61 91 -57 123
+rect -25 91 -21 123
+rect -61 77 -21 91
+rect -61 -4 -31 77
+rect -61 -18 -21 -4
+rect -61 -50 -57 -18
+rect -25 -50 -21 -18
+rect -61 -64 -21 -50
+<< nsubdiffcont >>
+rect -57 91 -25 123
+rect -57 -50 -25 -18
+<< poly >>
+rect -263 38 -229 64
+rect -169 38 -81 64
+rect -311 -18 -251 -4
+rect -311 -50 -297 -18
+rect -265 -38 -251 -18
+rect -141 4 -81 38
+rect -265 -50 -229 -38
+rect -311 -64 -229 -50
+rect -169 -64 -133 -38
+<< polycont >>
+rect -297 -50 -265 -18
+<< metal1 >>
+rect -281 127 -166 128
+rect -281 87 -219 127
+rect -179 87 -166 127
+rect -281 86 -166 87
+rect -67 127 29 128
+rect -67 123 -20 127
+rect -67 91 -57 123
+rect -25 91 -20 123
+rect -67 87 -20 91
+rect 20 87 29 127
+rect -67 86 29 87
+rect -215 50 -183 86
+rect -307 20 -255 29
+rect -307 -20 -301 20
+rect -261 -20 -255 20
+rect -307 -50 -297 -20
+rect -265 -50 -255 -20
+rect -215 18 -85 50
+rect -215 16 -183 18
+rect -215 -30 -183 -16
+rect -29 -9 29 -8
+rect -29 -18 -20 -9
+rect -67 -50 -57 -18
+rect -25 -49 -20 -18
+rect 20 -49 29 -9
+rect -25 -50 29 -49
+rect -307 -51 -255 -50
+rect -228 -87 -135 -86
+rect -228 -127 -219 -87
+rect -179 -127 -135 -87
+rect -228 -128 -135 -127
+<< via1 >>
+rect -219 123 -179 127
+rect -219 91 -215 123
+rect -215 91 -183 123
+rect -183 91 -179 123
+rect -219 87 -179 91
+rect -20 87 20 127
+rect -301 -18 -261 20
+rect -301 -20 -297 -18
+rect -297 -20 -265 -18
+rect -265 -20 -261 -18
+rect -20 -49 20 -9
+rect -219 -91 -179 -87
+rect -219 -123 -215 -91
+rect -215 -123 -183 -91
+rect -183 -123 -179 -91
+rect -219 -127 -179 -123
+<< metal2 >>
+rect -219 127 -179 136
+rect -301 20 -261 72
+rect -301 -72 -261 -20
+rect -219 -87 -179 87
+rect -219 -136 -179 -127
+rect -20 127 20 136
+rect -20 -9 20 87
+rect -20 -87 20 -49
+rect -20 -136 20 -127
+<< via2 >>
+rect -219 87 -179 127
+rect -301 -20 -261 20
+rect -20 -127 20 -87
+<< metal3 >>
+rect -310 127 41 135
+rect -310 87 -219 127
+rect -179 87 41 127
+rect -310 79 41 87
+rect -310 -20 -301 20
+rect -261 -20 41 20
+rect -310 -87 41 -79
+rect -310 -127 -20 -87
+rect 20 -127 41 -87
+rect -310 -135 41 -127
+use VIA_M1_Activ_db_0x02835b9b  VIA_M1_Activ_db_0x02835b9b_0
+timestamp 673063995
+transform -1 0 -199 0 -1 -107
+box 0 0 1 1
+use VIA_M1_Activ_db_0x02835b9b  VIA_M1_Activ_db_0x02835b9b_1
+timestamp 673063995
+transform 1 0 -199 0 1 107
+box 0 0 1 1
+use VIA_M1_GatPoly_db_0x0283451d  VIA_M1_GatPoly_db_0x0283451d_0
+timestamp 731409202
+transform 1 0 -281 0 1 -34
+box 0 0 1 1
+<< labels >>
+flabel comment s -199 -51 -199 -51 0 FreeSans 200 180 0 0 nmos
+flabel comment s -199 51 -199 51 0 FreeSans 200 180 0 0 nmos
+flabel comment s -66 45 -66 45 0 FreeSans 200 180 0 0 pmos
+flabel metal3 s -79 -135 41 -79 0 FreeSans 400 0 0 0 VDD
+port 3 nsew
+flabel metal3 s -79 79 41 135 0 FreeSans 400 0 0 0 VSS
+port 5 nsew
+flabel metal3 s -79 -20 41 20 0 FreeSans 400 0 0 0 LWL
+port 7 nsew
+<< properties >>
+string GDS_END 61592
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 58882
+string MASKHINTS_SRAMID -311 -199 41 199
+<< end >>

@@ -1,0 +1,93 @@
+magic
+tech ihp-sg13cmos5l
+timestamp 1817761436
+<< nwell >>
+rect -24 175 408 417
+<< pwell >>
+rect 7 28 377 116
+rect -13 -28 397 28
+<< ndiff >>
+rect 20 18 364 103
+<< psubdiff >>
+rect 20 15 364 18
+rect 0 8 384 15
+rect 0 -8 16 8
+rect 32 -8 64 8
+rect 80 -8 112 8
+rect 128 -8 160 8
+rect 176 -8 208 8
+rect 224 -8 256 8
+rect 272 -8 304 8
+rect 320 -8 352 8
+rect 368 -8 384 8
+rect 0 -15 384 -8
+<< nsubdiff >>
+rect 0 386 384 393
+rect 0 370 16 386
+rect 32 370 64 386
+rect 80 370 112 386
+rect 128 370 160 386
+rect 176 370 208 386
+rect 224 370 256 386
+rect 272 370 304 386
+rect 320 370 352 386
+rect 368 370 384 386
+rect 0 363 384 370
+<< psubdiffcont >>
+rect 16 -8 32 8
+rect 64 -8 80 8
+rect 112 -8 128 8
+rect 160 -8 176 8
+rect 208 -8 224 8
+rect 256 -8 272 8
+rect 304 -8 320 8
+rect 352 -8 368 8
+<< nsubdiffcont >>
+rect 16 370 32 386
+rect 64 370 80 386
+rect 112 370 128 386
+rect 160 370 176 386
+rect 208 370 224 386
+rect 256 370 272 386
+rect 304 370 320 386
+rect 352 370 368 386
+<< poly >>
+rect 20 123 364 275
+<< metal1 >>
+rect 0 386 384 400
+rect 0 370 16 386
+rect 32 370 64 386
+rect 80 370 112 386
+rect 128 370 160 386
+rect 176 370 208 386
+rect 224 370 256 386
+rect 272 370 304 386
+rect 320 370 352 386
+rect 368 370 384 386
+rect 0 356 384 370
+rect 0 8 384 22
+rect 0 -8 16 8
+rect 32 -8 64 8
+rect 80 -8 112 8
+rect 128 -8 160 8
+rect 176 -8 208 8
+rect 224 -8 256 8
+rect 272 -8 304 8
+rect 320 -8 352 8
+rect 368 -8 384 8
+rect 0 -22 384 -8
+<< labels >>
+flabel metal1 s 0 -22 384 22 0 FreeSans 200 0 0 0 VSS
+port 2 nsew ground bidirectional abutment
+flabel metal1 s 0 356 384 400 0 FreeSans 200 0 0 0 VDD
+port 1 nsew power bidirectional abutment
+<< properties >>
+string FIXED_BBOX 0 0 384 378
+string GDS_END 303836
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_stdcell/gds/sg13cmos5l_stdcell.gds
+string GDS_START 301888
+string LEFclass CORE SPACER
+string LEFproperties CatenaDesignType "deviceLevel"
+string LEFsite CoreSite
+string LEFsymmetry X Y
+<< end >>

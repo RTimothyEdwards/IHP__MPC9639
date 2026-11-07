@@ -1,0 +1,220 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 1144530805
+<< metal2 >>
+rect 161 3399 201 3439
+rect 361 3399 401 3439
+rect 723 3399 763 3439
+rect 923 3399 963 3439
+rect 161 -229 201 -189
+rect 361 -229 401 -189
+rect 723 -229 763 -189
+rect 923 -229 963 -189
+<< metal3 >>
+rect -29 3190 -19 3230
+rect 1143 3190 1153 3230
+rect -29 2976 -19 3016
+rect 1143 2976 1153 3016
+rect -29 2762 -19 2802
+rect 1143 2762 1153 2802
+rect -29 2548 -19 2588
+rect 1143 2548 1153 2588
+rect -29 2334 -19 2374
+rect 1143 2334 1153 2374
+rect -29 2120 -19 2160
+rect 1143 2120 1153 2160
+rect -29 1906 -19 1946
+rect 1143 1906 1153 1946
+rect -29 1692 -19 1732
+rect 1143 1692 1153 1732
+rect -29 1478 -19 1518
+rect 1143 1478 1153 1518
+rect -29 1264 -19 1304
+rect 1143 1264 1153 1304
+rect -29 1050 -19 1090
+rect 1143 1050 1153 1090
+rect -29 836 -19 876
+rect 1143 836 1153 876
+rect -29 622 -19 662
+rect 1143 622 1153 662
+rect -29 408 -19 448
+rect 1143 408 1153 448
+rect -29 194 -19 234
+rect 1143 194 1153 234
+rect -29 79 1153 135
+rect -29 -20 -19 20
+rect 1143 -20 1153 20
+rect -29 -135 1153 -79
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_0
+timestamp 14078362
+transform -1 0 843 0 1 0
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_1
+timestamp 14078362
+transform -1 0 843 0 1 856
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_2
+timestamp 14078362
+transform -1 0 843 0 1 2568
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_3
+timestamp 14078362
+transform -1 0 843 0 1 1712
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_4
+timestamp 14078362
+transform 1 0 281 0 -1 3210
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_5
+timestamp 14078362
+transform 1 0 281 0 -1 1498
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_6
+timestamp 14078362
+transform 1 0 281 0 -1 642
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_7
+timestamp 14078362
+transform 1 0 281 0 -1 2354
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_8
+timestamp 14078362
+transform -1 0 843 0 -1 2354
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_9
+timestamp 14078362
+transform -1 0 843 0 -1 1498
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_10
+timestamp 14078362
+transform -1 0 843 0 -1 3210
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_11
+timestamp 14078362
+transform -1 0 843 0 -1 642
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_12
+timestamp 14078362
+transform 1 0 281 0 1 1712
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_13
+timestamp 14078362
+transform 1 0 281 0 1 856
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_14
+timestamp 14078362
+transform 1 0 281 0 1 2568
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_CELL_2x1  RM_IHPSG13_1P_BITKIT_CELL_2x1_15
+timestamp 14078362
+transform 1 0 281 0 1 0
+box -311 -199 311 413
+use RM_IHPSG13_1P_BITKIT_TAP  RM_IHPSG13_1P_BITKIT_TAP_0
+timestamp 1835954971
+transform -1 0 843 0 1 -209
+box -322 -78 345 79
+use RM_IHPSG13_1P_BITKIT_TAP  RM_IHPSG13_1P_BITKIT_TAP_1
+timestamp 1835954971
+transform 1 0 281 0 -1 3419
+box -322 -78 345 79
+use RM_IHPSG13_1P_BITKIT_TAP  RM_IHPSG13_1P_BITKIT_TAP_2
+timestamp 1835954971
+transform -1 0 843 0 -1 3419
+box -322 -78 345 79
+use RM_IHPSG13_1P_BITKIT_TAP  RM_IHPSG13_1P_BITKIT_TAP_3
+timestamp 1835954971
+transform 1 0 281 0 1 -209
+box -322 -78 345 79
+<< labels >>
+flabel comment s 14 -107 14 -107 0 FreeSans 250 0 0 0 VDD!
+flabel comment s 9 107 9 107 0 FreeSans 250 0 0 0 VSS!
+flabel metal2 s 161 3399 201 3439 0 FreeSans 200 90 0 0 A_BLT_TOP<0>
+port 2 nsew
+flabel metal2 s 161 -229 201 -189 0 FreeSans 200 90 0 0 A_BLT_BOT<0>
+port 3 nsew
+flabel metal2 s 361 3399 401 3439 0 FreeSans 200 90 0 0 A_BLC_TOP<0>
+port 4 nsew
+flabel metal2 s 361 -229 401 -189 0 FreeSans 200 90 0 0 A_BLC_BOT<0>
+port 5 nsew
+flabel metal2 s 723 3399 763 3439 0 FreeSans 200 90 0 0 A_BLC_TOP<1>
+port 6 nsew
+flabel metal2 s 723 -229 763 -189 0 FreeSans 200 90 0 0 A_BLC_BOT<1>
+port 7 nsew
+flabel metal2 s 923 3399 963 3439 0 FreeSans 200 90 0 0 A_BLT_TOP<1>
+port 8 nsew
+flabel metal2 s 923 -229 963 -189 0 FreeSans 200 90 0 0 A_BLT_BOT<1>
+port 9 nsew
+flabel metal3 s 1143 194 1153 234 0 FreeSans 176 0 0 0 A_RWL<1>
+port 10 nsew
+flabel metal3 s 1143 408 1153 448 0 FreeSans 176 0 0 0 A_RWL<2>
+port 11 nsew
+flabel metal3 s 1143 622 1153 662 0 FreeSans 176 0 0 0 A_RWL<3>
+port 12 nsew
+flabel metal3 s 1143 836 1153 876 0 FreeSans 176 0 0 0 A_RWL<4>
+port 13 nsew
+flabel metal3 s 1143 1050 1153 1090 0 FreeSans 176 0 0 0 A_RWL<5>
+port 14 nsew
+flabel metal3 s 1143 1264 1153 1304 0 FreeSans 176 0 0 0 A_RWL<6>
+port 15 nsew
+flabel metal3 s 1143 1478 1153 1518 0 FreeSans 176 0 0 0 A_RWL<7>
+port 16 nsew
+flabel metal3 s 1143 1692 1153 1732 0 FreeSans 176 0 0 0 A_RWL<8>
+port 17 nsew
+flabel metal3 s 1143 1906 1153 1946 0 FreeSans 176 0 0 0 A_RWL<9>
+port 18 nsew
+flabel metal3 s -29 79 1153 135 0 FreeSans 200 0 0 0 VSS!
+port 19 nsew
+flabel metal3 s 1143 -20 1153 20 0 FreeSans 176 0 0 0 A_RWL<0>
+port 20 nsew
+flabel metal3 s 1143 2976 1153 3016 0 FreeSans 176 0 0 0 A_RWL<14>
+port 21 nsew
+flabel metal3 s -29 -135 1153 -79 0 FreeSans 200 0 0 0 VDD!
+port 22 nsew
+flabel metal3 s 1143 3190 1153 3230 0 FreeSans 176 0 0 0 A_RWL<15>
+port 23 nsew
+flabel metal3 s 1143 2762 1153 2802 0 FreeSans 176 0 0 0 A_RWL<13>
+port 24 nsew
+flabel metal3 s 1143 2548 1153 2588 0 FreeSans 176 0 0 0 A_RWL<12>
+port 25 nsew
+flabel metal3 s 1143 2334 1153 2374 0 FreeSans 176 0 0 0 A_RWL<11>
+port 26 nsew
+flabel metal3 s 1143 2120 1153 2160 0 FreeSans 176 0 0 0 A_RWL<10>
+port 27 nsew
+flabel metal3 s -29 -20 -19 20 0 FreeSans 176 0 0 0 A_LWL<0>
+port 28 nsew
+flabel metal3 s -29 194 -19 234 0 FreeSans 176 0 0 0 A_LWL<1>
+port 29 nsew
+flabel metal3 s -29 408 -19 448 0 FreeSans 176 0 0 0 A_LWL<2>
+port 30 nsew
+flabel metal3 s -29 622 -19 662 0 FreeSans 176 0 0 0 A_LWL<3>
+port 31 nsew
+flabel metal3 s -29 836 -19 876 0 FreeSans 176 0 0 0 A_LWL<4>
+port 32 nsew
+flabel metal3 s -29 1050 -19 1090 0 FreeSans 176 0 0 0 A_LWL<5>
+port 33 nsew
+flabel metal3 s -29 1264 -19 1304 0 FreeSans 176 0 0 0 A_LWL<6>
+port 34 nsew
+flabel metal3 s -29 1478 -19 1518 0 FreeSans 176 0 0 0 A_LWL<7>
+port 35 nsew
+flabel metal3 s -29 1692 -19 1732 0 FreeSans 176 0 0 0 A_LWL<8>
+port 36 nsew
+flabel metal3 s -29 1906 -19 1946 0 FreeSans 176 0 0 0 A_LWL<9>
+port 37 nsew
+flabel metal3 s -29 2120 -19 2160 0 FreeSans 176 0 0 0 A_LWL<10>
+port 38 nsew
+flabel metal3 s -29 2334 -19 2374 0 FreeSans 176 0 0 0 A_LWL<11>
+port 39 nsew
+flabel metal3 s -29 2548 -19 2588 0 FreeSans 176 0 0 0 A_LWL<12>
+port 40 nsew
+flabel metal3 s -29 2762 -19 2802 0 FreeSans 176 0 0 0 A_LWL<13>
+port 41 nsew
+flabel metal3 s -29 2976 -19 3016 0 FreeSans 176 0 0 0 A_LWL<14>
+port 42 nsew
+flabel metal3 s -29 3190 -19 3230 0 FreeSans 176 0 0 0 A_LWL<15>
+port 43 nsew
+<< properties >>
+string GDS_END 68876
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 61790
+<< end >>

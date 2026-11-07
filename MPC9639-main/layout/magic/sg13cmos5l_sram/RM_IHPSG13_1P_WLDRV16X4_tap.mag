@@ -1,0 +1,19 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 2039842649
+<< digisub >>
+rect 0 3420 1734 3568
+<< metal1 >>
+rect 0 3420 1734 3568
+<< metal2 >>
+rect 1150 3360 1301 3628
+rect 1657 3360 1709 3628
+<< metal3 >>
+rect 0 3568 2369 3624
+rect 0 3364 2369 3420
+<< properties >>
+string GDS_END 270212
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 269824
+<< end >>

@@ -1,0 +1,13 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 1679098613
+use VIA_M1_Activ_db_0x02835b9b  VIA_M1_Activ_db_0x02835b9b_0
+timestamp 673063995
+transform -1 0 199 0 1 0
+box 0 0 1 1
+<< properties >>
+string GDS_END 58822
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 57874
+<< end >>

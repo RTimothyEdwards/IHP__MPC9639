@@ -1,0 +1,17 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 209915486
+use RSC_IHPSG13_DFPQD_MSAFFX2N_half  RSC_IHPSG13_DFPQD_MSAFFX2N_half_0
+timestamp 818485340
+transform -1 0 1734 0 1 0
+box 0 0 1 1
+use RSC_IHPSG13_DFPQD_MSAFFX2N_half  RSC_IHPSG13_DFPQD_MSAFFX2N_half_1
+timestamp 818485340
+transform 1 0 0 0 1 0
+box 0 0 1 1
+<< properties >>
+string GDS_END 254014
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 251458
+<< end >>

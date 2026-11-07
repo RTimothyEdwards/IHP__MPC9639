@@ -1,0 +1,25 @@
+magic
+tech ihp-sg13cmos5l
+magscale 1 2
+timestamp 680297557
+use VIA_M1_Activ_db_0x02835b9b  VIA_M1_Activ_db_0x02835b9b_0
+timestamp 673063995
+transform -1 0 -199 0 -1 -107
+box 0 0 1 1
+use VIA_M1_Activ_db_0x02835b9b  VIA_M1_Activ_db_0x02835b9b_1
+timestamp 673063995
+transform 1 0 -199 0 1 107
+box 0 0 1 1
+use VIA_M1_GatPoly_db_0x0283451d  VIA_M1_GatPoly_db_0x0283451d_0
+timestamp 731409202
+transform 1 0 -281 0 1 -34
+box 0 0 1 1
+use VIA_M1_GatPoly_db_0x0283451d  VIA_M1_GatPoly_db_0x0283451d_1
+timestamp 731409202
+transform 1 0 -111 0 1 34
+box 0 0 1 1
+<< properties >>
+string GDS_END 3038
+string GDS_FILE $PDKPATH/libs.ref/sg13cmos5l_sram/gds/RM_IHPSG13_1P_1024x8_c2_bm_bist.gds
+string GDS_START 634
+<< end >>
