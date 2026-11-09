@@ -8,7 +8,7 @@
 # as the edit cell, from the magic/ directory.  The final (filled) GDS
 # is built from the pre-fill GDS and so needs no separate placement.
 #
-# Projects placed:      1 2 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
+# Projects placed:      1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18
 #
 
 # Positions are in microns, so that the internal-unit scaling of any
@@ -26,6 +26,7 @@ gds noduplicates true
 
 gds read ../dependencies/slot_1/gds/slot_1.gds
 gds read ../dependencies/slot_2/final/gds/slot_2.gds
+gds read ../dependencies/slot_3/final/gds/slot_3.gds
 gds read ../dependencies/slot_4/final/gds/slot_4.gds
 gds read ../dependencies/slot_5/gds/slot_5.gds
 gds read ../dependencies/slot_6/gds/slot_6.gds
@@ -33,7 +34,7 @@ gds read ../dependencies/slot_7/final/gds/slot_7.gds
 gds read ../dependencies/slot_8/final/gds/slot_8.gds
 gds read ../dependencies/slot_9/gds/slot_9.gds
 gds read ../dependencies/slot_10/gds/slot_10.gds
-gds read ../dependencies/slot_11/gds/slot_11.gds
+gds read ../dependencies/slot_11/final/gds/slot_11.gds
 gds read ../dependencies/slot_12/final/gds/slot_12.gds
 gds read ../dependencies/slot_13/final/gds/slot_13.gds
 gds read ../dependencies/slot_14/final/gds/slot_14.gds
@@ -77,6 +78,24 @@ if {[lsearch [cellname list allcells] slot_2] < 0} {
     lappend missing_slots 2
 } else {
     load slot_2
+    # Properties apply to the current edit cell, so these must stay
+    # inside the else, after the load.
+    property GDS_END ""
+    property GDS_START 0
+    property LEFview true
+}
+# slot 3 --- dependencies/slot_3/final/gds/slot_3.gds
+if {[lsearch [cellname list allcells] slot_3] < 0} {
+    puts "ERROR: slot_3.gds contains no cell named slot_3"
+    puts "       slot 3 not placed:  no getcell was done."
+    puts "       NOTE:  if the project was laid out directly in"
+    puts "       slot3_wrapper it replaces the harness wrapper of"
+    puts "       that name and may still appear in the chip anyway."
+    puts "       Check the slot visually, and rely on chip level LVS"
+    puts "       to confirm the slot pins survived."
+    lappend missing_slots 3
+} else {
+    load slot_3
     # Properties apply to the current edit cell, so these must stay
     # inside the else, after the load.
     property GDS_END ""
@@ -209,7 +228,7 @@ if {[lsearch [cellname list allcells] slot_10] < 0} {
     property GDS_START 0
     property LEFview true
 }
-# slot 11 --- dependencies/slot_11/gds/slot_11.gds
+# slot 11 --- dependencies/slot_11/final/gds/slot_11.gds
 if {[lsearch [cellname list allcells] slot_11] < 0} {
     puts "ERROR: slot_11.gds contains no cell named slot_11"
     puts "       slot 11 not placed:  no getcell was done."
@@ -376,6 +395,17 @@ if {[lsearch $missing_slots 2] >= 0} {
         delete
     }
     getcell slot_2 child 0 0 parent 1379.95 795.05
+}
+
+if {[lsearch $missing_slots 3] >= 0} {
+    puts "skipping slot 3 (top level cell not found)"
+} else {
+    # Remove any existing slot instance
+    if {[instance list exists slot_3_0] != ""} {
+        select cell slot_3_0
+        delete
+    }
+    getcell slot_3 child 0 0 parent 1379.95 1070.05
 }
 
 if {[lsearch $missing_slots 4] >= 0} {

@@ -4,19 +4,31 @@
   "technology": "IHP",
   "unique_id": "9639",
   "license": "Apache-2.0",
-  "trl": 0,
-  "sealring_x": 1.0,
-  "sealring_y": 1.0,
-  "repository": "",
-  "pdk_version": "",
-  "process": "SG13CMOS",
-  "dependencies": {},
-  "tools": {},
-  "top_cell_name": "IHP__MPC9639",
+  "trl": 3,
+  "sealring_x": 2257.8,
+  "sealring_y": 3357.8,
+  "repository": "https://github.com/RTimothyEdwards/IHP__MPC9639",
+  "pdk_version": "f658ac22974185eb65f27e06caa72aa72ecf6d17",
+  "process": "SG13CMOS5L",
+  "dependencies": {
+    "IHP-Open-PDK": "a49358cc0b20635fcb53c0940505e3563763fc7a",
+    "libraries": [
+      "sg13cmos5l_stdcell",
+      "sg13cmos5l_io",
+      "sg13cmos5l_sram (RM_IHPSG13_1P_1024x8_c2_bm_bist)"
+    ],
+    "design_source": "https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza/tree/tapeout_nov_2026"
+  },
+  "tools": {
+    "klayout": "0.30.9",
+    "magic": "8.3.696",
+    "netgen": "1.5.326"
+  },
+  "top_cell_name": "MPC9639",
   "release": {
-    "version": "v.1.0.0",
-    "gds": "release/v.1.0.0/gds/IHP__MPC9639.gds",
-    "netlist": "release/v.1.0.0/netlist/IHP__MPC9639.spice",
-    "doc": "release/v.1.0.0/doc/README"
+    "version": "v.1.0.1",
+    "gds": "release/v.1.0.1/gds/MPC9639.gds.gz",
+    "netlist": "release/v.1.0.1/netlist/MPC9639.spice",
+    "doc": "release/v.1.0.1/doc/README"
   }
 }

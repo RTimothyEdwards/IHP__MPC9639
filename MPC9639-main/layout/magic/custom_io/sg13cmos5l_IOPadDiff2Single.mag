@@ -130335,6 +130335,6 @@ rlabel comment 1032 25540 1032 25540 4 d2s_block_0.d2s_inputs_c2_0.tub_p20x1_c2_
 flabel comment 894 25540 894 25540 0 FreeSans 200 90 0 0 d2s_block_0.d2s_inputs_c2_0.tub_p20x1_c2_11.pmosHV_w20_l1_ng2_0.pmosHV
 << properties >>
 string FIXED_BBOX 0 0 16000 36000
-string GDS_FILE /home/tim/projects/opencircuitdesign/Chipalooza/challenge_ihp_1/testing/sg13cmos5l_ocd_chipalooza/dependencies/slot_7/pads/sg13cmos5l_IOPadDiff2Single/sg13cmos5l_IOPadDiff2Single.gds
+string GDS_FILE /home/tim/projects/opencircuitdesign/Chipalooza/challenge_ihp_1/tapeout/sg13cmos5l_ocd_chipalooza/dependencies/slot_7/pads/sg13cmos5l_IOPadDiff2Single/sg13cmos5l_IOPadDiff2Single.gds
 string GDS_START 0
 << end >>

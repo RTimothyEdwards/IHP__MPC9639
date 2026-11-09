@@ -106832,6 +106832,6 @@ rlabel metal2 7978 23840 8058 24294 4 s2d_block_0.pwr_f_0.sa_M2
 rlabel metal2 7978 29954 8058 30408 4 s2d_block_0.pwr_f_0.sb_M2
 << properties >>
 string FIXED_BBOX 0 0 16000 36000
-string GDS_FILE /home/tim/projects/opencircuitdesign/Chipalooza/challenge_ihp_1/testing/sg13cmos5l_ocd_chipalooza/dependencies/slot_7/pads/sg13cmos5l_IOPadSingle2Diff/sg13cmos5l_IOPadSingle2Diff.gds
+string GDS_FILE /home/tim/projects/opencircuitdesign/Chipalooza/challenge_ihp_1/tapeout/sg13cmos5l_ocd_chipalooza/dependencies/slot_7/pads/sg13cmos5l_IOPadSingle2Diff/sg13cmos5l_IOPadSingle2Diff.gds
 string GDS_START 0
 << end >>

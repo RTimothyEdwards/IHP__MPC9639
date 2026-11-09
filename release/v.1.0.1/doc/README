@@ -1,0 +1,37 @@
+This is the first release of the IHP__MPC9639 "Chipalooza" harness chip.
+This is a mixed-signal multi-project carrier design.
+
+The general design is a 64-pin die that is divided into 18 sections
+for analog and mixed-signal projects.  Each section is provided resources
+of
+
+(1) A switched power supply
+(2) Shared digital power supply
+(3) Shared ground lines
+(4) One voltage bias line
+(5) Two current bias lines
+(6) Digital control inputs and digital status outputs
+
+At the bottom of the design is a small digital controller for
+interfacing to an external host computer through an SPI
+interface (with the intent to use a USB-to-SPI interface such
+as an FTDI chip).  The SPI interface is a standard 4-pin
+interface and matches the Efabless Caravel chip housekeeping
+SPI definition for the controls, with internal registers for
+control output and status input from the project areas.
+
+The chip is generated from the original open source repository
+which can be found at
+
+    https://github.com/RTimothyEdwards/sg13cmos5l_ocd_chipalooza
+
+The state of the repository at tapeout with the project slots
+populated with user projects is preserved in the git branch
+
+    tapeout_nov_2026
+
+The chip is constructed according to the Makefile process in that
+repository and the 18 projects recorded in the "config.txt" file.
+Design files and final data are copied to this tapeout repository
+after a completed build.  Please see the original repository for
+additional information.
